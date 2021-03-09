@@ -19,5 +19,5 @@ El presente proyecto tiene como fin diseñar un modelo que pueda clasificar las 
 ## Dataset
 El dataset se encuentra disponible en el siguiente [enlace](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1), dicho dataset cuenta con un total de aproximadamente 15 millones de datos, separados en 4 archivos **.RData**. Los datasets cuentan con 55 columnas, las cuales representan el código del tipo de falla, enumerado de 0 a 20, y las diferentes variables implicadas en el proceso tales como: temepraturas, presiones, flujos o concentraciones.
 
-## Video:
-el video de nuestro proyecto se puede ver en el siguiente [enlace](https://www.youtube.com/watch?v=SXTvvqUx8jA)
+## Video
+el video de nuestro proyecto se puede ver en el siguiente [enlace](https://www.youtube.com/watch?v=SXTvvqUx8jA) (https://www.youtube.com/watch?v=SXTvvqUx8jA)
