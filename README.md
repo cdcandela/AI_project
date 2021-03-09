@@ -1,9 +1,9 @@
-# Identificación de fallas en procesos químicos mediante implementación de técnias de Machine Learning y Deep Learning
+# Identificación de fallas en procesos químicos mediante la implementación de técnicas de Machine Learning y Deep Learning
 
 <img src="https://github.com/cdcandela/AI_project/blob/main/banner_AI.jpeg"  width="800px" height="300px">
 
 ## Autores:
-**Carlos Davdi Ortega Candela - 2142136**  
+**Carlos David Ortega Candela - 2142136**  
 **David Ortiz - 2163074**
 
 ## Summary
