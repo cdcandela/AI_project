@@ -1,4 +1,4 @@
-# Identificación de fallas en procesos químicos mediante implementando técnias de Machine Learning y Deep Learning
+# Identificación de fallas en procesos químicos mediante implementación de técnias de Machine Learning y Deep Learning
 
 <img src="https://github.com/cdcandela/AI_project/blob/main/banner_AI.jpeg"  width="800px" height="300px">
 
